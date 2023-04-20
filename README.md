@@ -1,6 +1,6 @@
 # JavaScript 入门
 
-本章程旨在通过实例和项目实践，为初学者介绍 JavaScript 编程的基础知识和应用场景。本章程的教学内容涵盖 JavaScript 基础语法、控制流、函数、数组、对象、事件和浏览器 DOM 操作等内容。通过学习本章程，学生将有机会编写自己的 JavaScript 程序，并获得实践经验。
+本课程旨在通过实例和项目实践，为初学者介绍 JavaScript 编程的基础知识和应用场景。本章程的教学内容涵盖 JavaScript 基础语法、控制流、函数、数组、对象、事件和浏览器 DOM 操作等内容。通过学习本章程，学生将有机会编写自己的 JavaScript 程序，并获得实践经验。
 
 This course aims to introduce beginners to the fundamentals of JavaScript programming and its applications through examples and project practice. The course covers topics including JavaScript syntax, control flow, functions, arrays, objects, events, and browser DOM manipulation. By taking this course, students will have the opportunity to write their own JavaScript programs and gain practical experience.
 
